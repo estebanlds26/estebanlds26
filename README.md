@@ -1,6 +1,3 @@
 - 👋 Hi, I’m Esteban
 - 🌱 I’m currently learning ... sobre ingenieria informatica
-<!---
-estebanlds26/estebanlds26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Adjunto archivo actividad AyP1 "PARADIGMAS" [PARADIGMA.docx](https://github.com/estebanlds26/estebanlds26/files/6151455/PARADIGMA.docx)
